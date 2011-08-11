@@ -6,7 +6,7 @@ h2. How to install...
 
 In your local machine:
 <pre><code>git clone git@github.com:jfjade18/linkedin.git
-mv linkedin/* APP_ROOT/lib/</code></pre>
+mv linkedin/lib/* APP_ROOT/lib/</code></pre>
 
 Remove "linkedin" gem in your Gemfile and restart your server.
 
