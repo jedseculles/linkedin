@@ -4,7 +4,7 @@ LinkedIn library was extracted from one of my previous project I handled. Origin
 
 h2. How to install...
 
-In your local machine:
+In your local machine, somewhere outside your APP_ROOT:
 <pre><code>git clone git@github.com:jfjade18/linkedin.git
 mv linkedin/lib/* APP_ROOT/lib/</code></pre>
 
