@@ -1,0 +1,15 @@
+h1. LinkedIn
+
+LinkedIn library was extracted from one of my previous project I handled. Original code was copied from "pengwynn/linkedin":https://github.com/pengwynn/linkedin.
+
+h2. How to install...
+
+In your local machine:
+<pre><code>git clone git@github.com:jfjade18/linkedin.git
+mv linkedin/* APP_ROOT/lib/</code></pre>
+
+Remove "linkedin" gem in your Gemfile and restart your server.
+
+h2. Documentation
+
+Please check "pengwynn/linkedin":https://github.com/pengwynn/linkedin documentation.
